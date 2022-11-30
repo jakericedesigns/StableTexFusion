@@ -31,6 +31,6 @@ Here's an example output texture for a good time:
 ---
 ## References
 
-+ SDS Loss shamelessly stolen from the Stable-Dreamfusion project: [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion)
-+ Inspiration for the UV texture sampling: [Differentiable Parameterizations](https://distill.pub/2018/differentiable-parameterizations/#section-featureviz-3d)
-+ Original Dreamfusion paper: [Dreamfusion](https://dreamfusion3d.github.io/)
++ [SDS Loss shamelessly stolen from the Stable-Dreamfusion project](https://github.com/ashawkey/stable-dreamfusion)
++ [Differentiable Parameterizations](https://distill.pub/2018/differentiable-parameterizations/#section-featureviz-3d)
++ [Dreamfusion](https://dreamfusion3d.github.io/)
