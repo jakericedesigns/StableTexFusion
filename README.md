@@ -3,7 +3,7 @@ A WIP method for generating seamless texture mapping guided Stable Diffusion
 
 ---
 ## Usage Info
-to install this, just like use conda.
+To install this, just like use conda.
 you'll need to install pytorch3d and diffusers:
 ```
 conda create -n pytorch3d python=3.9
