@@ -21,3 +21,9 @@ I'm probably missing steps in the install as well, but I'm sure y'all can figure
 Requires having like an input obj, with an associated MTL file and texture map, though tbh in the current cut i throw out all input textures. Your object needs to have vertex UV's as well. I believe in you!
 
 Currently it takes a while on my 3090, like 30 minutes, and the outputs are hit or miss. But it's still cool. 
+It also really helps if your UV islands are like sized proportionally to their surface area on the mesh.
+
+---
+
+Here's an example output texture for a good time:
+![Example Output](example_tex/textures_0399.png)
