@@ -27,3 +27,10 @@ It also really helps if your UV islands are like sized proportionally to their s
 
 Here's an example output texture for a good time:
 ![Example Output](example_tex/textures_0399.png)
+
+---
+## References
+
++ SDS Loss shamelessly stolen from the Stable-Dreamfusion project: [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion)
++ Inspiration for the UV texture sampling: [Differentiable Parameterizations](https://distill.pub/2018/differentiable-parameterizations/#section-featureviz-3d)
++ Original Dreamfusion paper: [Dreamfusion](https://dreamfusion3d.github.io/)
